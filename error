@@ -1,0 +1,2732 @@
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+
+
+
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+
+
+
+
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.167, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.728, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.3, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.533, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.147, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.771, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.301,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.349, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.595, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.13, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.735, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.352, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.547, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.151, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.734, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.351, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.565, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.021, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.761, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.386, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.309,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.146, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.042, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.75, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+0.375, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.537, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "You are being rate limited.", "retry_after": 0.3,
+"global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+Exception calling "Invoke" with "1" argument(s): "{"message": "The resource is being rate limited.", "retry_after":
+1.133, "global": false}"
+At line:3 char:1
++ $sendKeyToDiscord.Invoke($key)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : CmdletInvocationException
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
